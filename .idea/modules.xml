@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ibm-odm-restapi-client.iml" filepath="$PROJECT_DIR$/ibm-odm-restapi-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odm-restapi-client/odm-restapi-client.iml" filepath="$PROJECT_DIR$/odm-restapi-client/odm-restapi-client.iml" />
+    </modules>
+  </component>
+</project>
